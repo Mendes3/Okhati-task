@@ -1,0 +1,41 @@
+.register-form{
+    /* border: 2px solid black; */
+    border-radius:0 0 2% ;
+    margin:0 auto;
+    padding:25px;
+    width:50%;
+    height:fit-content;   
+    background-color:rgb(236, 229, 220)
+}
+input{
+    width:70%;
+    border-radius: 5%;
+    padding:5px;
+}
+.input{
+    display:flex;
+    justify-content: space-between;
+    padding:7px;
+}
+.title{
+    background-color:rgb(15, 122, 24);
+    padding:14px;
+    width:51.5%;
+    margin:50px auto 0;
+    color:white;
+    /* border-radius:4%; */
+
+    
+
+}
+button{
+    width:30%;
+    background-color:rgb(15, 122, 24);
+    padding:15px;
+    margin-bottom:10px;
+    color:white;
+    border:none;
+    font-size: 20px;
+    border-radius: 15%;
+
+}
