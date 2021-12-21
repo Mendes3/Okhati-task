@@ -39,3 +39,11 @@ button{
     border-radius: 15%;
 
 }
+.error{
+    font-size: 14px;
+    /* margin-left: 10px; */
+    /* position:absolute;
+    padding: 10px, 40px; */
+    /* display:block; */
+    color: #ad2323;
+ }

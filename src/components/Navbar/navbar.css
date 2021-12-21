@@ -9,7 +9,7 @@ nav{
     box-sizing: border-box;
     background-color:rgb(15, 122, 24);
     color:white;
-  font-family: var(--title-font);
+    font-family: var(--title-font);
 
     
 }
